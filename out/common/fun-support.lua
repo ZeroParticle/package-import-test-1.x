@@ -1,4 +1,4 @@
--- Compiled with roblox-ts v1.3.3
+-- Compiled with roblox-ts v1.2.4
 local FunUtil
 do
 	FunUtil = setmetatable({}, {

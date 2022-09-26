@@ -1,4 +1,4 @@
--- Compiled with roblox-ts v1.3.3
+-- Compiled with roblox-ts v1.2.4
 local TS = _G[script]
 local funFunction = TS.import(script, script.Parent.Parent, "common", "common").funFunction
 local Server
